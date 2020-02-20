@@ -8,20 +8,6 @@
     -本课程的整体安排和教学要求
 * 学习引导: 
     - 熟悉notebook；
-    - 参考书目：
-        - 《打开量化投资的黑箱》 
-            - Inside the Black'Box:A Simple Guide to Quantitative and High-Frequency Trading 
-            - 作者：里什纳兰 (Rishi K.Narang) 
-            - 出版社: 机械工业出版社; 第1版 (2016年5月1日)
-        - 《主动投资组合管理:创造高收益并控制风险的量化投资方法》 
-            - Active Portfolio Management: A Quantitative Approach for Providing Superior Returns and Controlling Risk (2th Edition) 
-            - 作者：理查德 C.格林诺德 (Richard C.Grinol, 雷诺德 N.卡恩 (Ronald N.Kahn), 李腾 (译者) 
-            - 出版社: 机械工业出版社; 第1版 (2014年9月1日)
-        - 《算法交易:制胜策略与原理》 
-            - Algorithmic Trading: Winning Strategies and Their Rationale 
-            - 作者：欧内斯特陈 (Ernest P.Chan) 
-            - 出版社: 机械工业出版社; 
-            - 第1版 (2017年1月1日)
     - 熟悉GitHub
 * 作业: 
     - 《黑箱》读书笔记，要求简要论述自己读书后对量化交易系统的理解；2周后交
@@ -218,3 +204,18 @@
 ## 15. 期末策略路演
 * 教学内容: 
     - 以个人为单位的策略制作和报告路演
+
+## 参考书目：
+        - 《打开量化投资的黑箱》 
+            - Inside the Black'Box:A Simple Guide to Quantitative and High-Frequency Trading 
+            - 作者：里什纳兰 (Rishi K.Narang) 
+            - 出版社: 机械工业出版社; 第1版 (2016年5月1日)
+        - 《主动投资组合管理:创造高收益并控制风险的量化投资方法》 
+            - Active Portfolio Management: A Quantitative Approach for Providing Superior Returns and Controlling Risk (2th Edition) 
+            - 作者：理查德 C.格林诺德 (Richard C.Grinol, 雷诺德 N.卡恩 (Ronald N.Kahn), 李腾 (译者) 
+            - 出版社: 机械工业出版社; 第1版 (2014年9月1日)
+        - 《算法交易:制胜策略与原理》 
+            - Algorithmic Trading: Winning Strategies and Their Rationale 
+            - 作者：欧内斯特陈 (Ernest P.Chan) 
+            - 出版社: 机械工业出版社; 
+            - 第1版 (2017年1月1日)

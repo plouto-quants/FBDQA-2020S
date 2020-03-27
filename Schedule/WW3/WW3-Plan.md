@@ -1,4 +1,4 @@
-2020-02-28
+2020-03-05
 
 Bring Your Laptop to Class. 
 
@@ -7,7 +7,8 @@ Bring Your Laptop to Class.
 |    0     | 课程签到     |  logistics   |     TAs     |        |
 |    1     | Python使用   |  讲课   |    CZ     |        |
 |    2     | 聚宽平台使用   |  讲课   |    CZ     |        |
-|    3     | 量化体系   |  讲课   |    WH     |        |
+|    3     | 量化交易策略 |  讲课   |    WH     |        |
+
 
 
 大家注意：勿上传``有版权``的课程参考资料。

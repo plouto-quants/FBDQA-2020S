@@ -1,8 +1,9 @@
-# GUOM
+* GUOM: ORCA
 
-# WHY
+* WHY: Postgre
 
-# Liu Wei-Wei
+* Liu Wei-Wei: Pair Trading
 
-# Chi Ying-Tian
+* Chi Ying-Tian: PLPython 
+
 

@@ -7,9 +7,9 @@ Bring Your Laptop and smart phone to Class.
 | :---    |   :----:    |   :----:    |    :----:    |       ---: |
 |    1    | [回顾上节课](../WW14/WW14-Plan.md)    |  简述   |   CZ     |        |
 |    2    |  业界嘉宾讲座3   |  讲课 |  WH  |   45 min    |
-|    2    |  策略准备，策略案例介绍      |  讲课 |      WH      |   40 min    |
-|    3    |  衍生品分析   |    讲课     |  LWW    |   40 min    |
-|    4    | [展望下节课](../WW16/WW16-Plan.md)     |  简述   |   CZ   |        |
+|    3    |  策略准备，策略案例介绍      |  讲课 |      WH      |   40 min    |
+|    4    |  高性能Python（金融数据）   |    讲课     |   WHY   |   30 min   |
+|    5    | [展望下节课](../WW16/WW16-Plan.md)     |  简述   |   CZ   |        |
 
 
 

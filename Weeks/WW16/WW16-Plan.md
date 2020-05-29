@@ -9,7 +9,7 @@ Bring Your Laptop and smart phone to Class.
 |    2    |  人工智能在量化交易中的应用    |  讲课     |  WH  |    50 min   |
 |    3    |  [课程总述] |   总述  |   WH    |   20 min     |
 |    4    |  策略准备，问题回答    |  讲课     |  WH/LWW  |   30 min   |
-|    5    |  分组策略指导    |  讲课     | all   |   3个大组 (20 min)   |
+|    5    |  分组策略指导    |  讲课     | all   |  20 min  |
 
 
 

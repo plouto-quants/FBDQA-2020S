@@ -6,7 +6,7 @@
 - [第2周小结](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/0855-Day2.md)
 - [第3周小结](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/0855-Day3.md)
 - [第4周小结](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/0855-Day4.md)
-- [第5周小结](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/0855-Day2.md)
+- [第5周小结](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/0855-Day5.md)
 - [第6周小结](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/0855-Day6.md)
 - [第7周小结](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/0855-Day7.md)
 - [第8周小结](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/0855-Day8.md)

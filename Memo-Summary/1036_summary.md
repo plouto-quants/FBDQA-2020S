@@ -10,7 +10,7 @@
 - [第9周小结](../Study-Memo/1036_day9.md)
 
 - [第10周小结](../Study-Memo/1036_day10.md)
-- [第12周小结](../Study-Memo/1036_d12.md)
+- [第12周小结](../Study-Memo/1036_day12.md)
 - [第13周小结](../Study-Memo/1036_d13.md)
 - [第14周小结](../Study-Memo/1036_d14.md)
 - [第15周小结](../Study-Memo/1036_d15.md)

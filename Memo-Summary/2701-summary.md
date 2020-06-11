@@ -7,9 +7,7 @@
 
 [第三周](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/2701-Day3.md)
 
-[第四周](
-
-https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/2701-Day4.md)
+[第四周](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/2701-Day4.md)
 
 [第五周](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/2701-Day5.md)
 

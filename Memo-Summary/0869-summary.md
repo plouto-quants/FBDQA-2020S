@@ -20,7 +20,7 @@
 
 [第十周](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/0869-Day10.md)
 
-第十一周 (Vacation)
+第十一周  (Vacation)
 
 [第十二周](https://github.com/plouto-quants/FBDQA-2020S/blob/master/Study-Memo/0869-Day11.md)
 
